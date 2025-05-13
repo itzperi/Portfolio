@@ -44,7 +44,7 @@ const Footer = () => {
           
           <div className="flex flex-wrap justify-center gap-4">
             <a 
-              href="https://linkedin.com" 
+              href="www.linkedin.com/in/periyanan-p" 
               target="_blank"
               rel="noopener noreferrer"
               className="h-10 w-10 rounded-full bg-dark-300 flex items-center justify-center hover:bg-neon-purple/20 hover:scale-110 transition-all duration-300"
@@ -58,7 +58,7 @@ const Footer = () => {
             </a>
             
             <a 
-              href="https://github.com" 
+              href="https://github.com/itzperi"
               target="_blank"
               rel="noopener noreferrer"
               className="h-10 w-10 rounded-full bg-dark-300 flex items-center justify-center hover:bg-neon-purple/20 hover:scale-110 transition-all duration-300"
