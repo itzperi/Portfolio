@@ -2,7 +2,7 @@
 import { useTypewriter, useRotatingText } from '../lib/animations';
 
 const Hero = () => {
-  const { displayText } = useTypewriter("Turning Complex Ideas into Stunning Web Experiences", 70, 500);
+  const { displayText } = useTypewriter("  Turning Design to Powerful Software ", 70, 500);
   const { currentText, isAnimating } = useRotatingText([
     "Full-Stack Developer", 
     "AI Integrator", 
@@ -54,7 +54,7 @@ const Hero = () => {
         <div className="flex flex-col sm:flex-row gap-4 animate-fade-in">
           <a href="#projects" className="btn-primary">View Projects</a>
           <a 
-            href="/resume.pdf" 
+            href="./asserts/Resume-Periyanan.pdf" 
             className="btn-secondary"
             download="Periyanan_P_Resume.pdf"
             target="_blank"

@@ -11,37 +11,37 @@ interface ExperienceItem {
 
 const experiences: ExperienceItem[] = [
   {
-    title: "Full Stack Developer",
-    company: "Innova Solutions",
-    period: "Jan 2023 - Present",
+    title: "Software Developer",
+    company: "Hypnotism Private Limited",
+    period: "April 2025 - Present - Partime",
     description: [
-      "Led development of a scalable e-commerce platform using React, Node.js, and MongoDB",
-      "Implemented CI/CD pipelines reducing deployment time by 30%",
-      "Optimized database queries improving application performance by 40%"
+      "Built a full-stack eCommerce site with product, cart, and checkout features.",
+      "Developed an admin dashboard to track sales and manage products.",
+      "Integrated APIs and payment gateway for smooth transactions."
     ],
-    technologies: ["React", "Node.js", "MongoDB", "Docker", "AWS"]
+    technologies: ["React.js", "Node.js", "MongoDB Atlas", "Vercel", "Github"]
   },
   {
-    title: "AI Integration Specialist",
-    company: "TechVision",
-    period: "Mar 2022 - Dec 2022",
+    title: "SDE Intern",
+    company: "Hypnotism Private Limited",
+    period: "Dec 2024 - April 2025",
     description: [
-      "Integrated OpenAI APIs into existing web applications",
-      "Developed natural language processing features for customer service portals",
-      "Created custom machine learning models for content recommendation"
+      "Built and deployed a 40–50 page company website (Nimais) using React.js, Tailwind CSS, and Node.js.",
+      "Designed UI/UX in Figma, ensuring a clean, responsive user experience.",
+      "Owned the full development lifecycle — from concept and prototyping to deployment — showcasing strong full-stack and project management skills."
     ],
-    technologies: ["Python", "TensorFlow", "OpenAI API", "FastAPI", "AWS Lambda"]
+    technologies: ["React.js", "Tailwind CSS", "Figma ", "Node.js"]
   },
   {
-    title: "Frontend Developer",
-    company: "WebCreators",
-    period: "Jun 2021 - Mar 2022",
+    title: "Marketing Intern ",
+    company: "Creative Marketing India",
+    period: "Jun 2024 - July 2025",
     description: [
-      "Developed responsive UI components using React and Tailwind CSS",
-      "Optimized web performance achieving 95+ Lighthouse scores",
-      "Collaborated with designers to implement pixel-perfect interfaces"
+      "Conducted market research on headphones.",
+      "Collected feedback from shop owners.",
+      "Collaborated on data-driven strategies."
     ],
-    technologies: ["React", "Next.js", "Tailwind CSS", "GraphQL", "Figma"]
+    technologies: ["Market Research", "Consumer Analysis", "Survey Design", "Data Interpretation", "Business Strategy"]
   }
 ];
 

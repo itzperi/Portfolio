@@ -45,7 +45,7 @@ const Resume = () => {
             </p>
             
             <a 
-              href="/resume.pdf" 
+              href="./asserts/Resume-Periyanan.pdf" 
               download="Periyanan_P_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"

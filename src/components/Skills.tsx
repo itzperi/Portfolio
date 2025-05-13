@@ -10,13 +10,13 @@ interface Skill {
 }
 
 const skills: Skill[] = [
-  { name: "React", icon: "⚛️", level: 95, category: "frontend" },
-  { name: "TypeScript", icon: "🔷", level: 90, category: "languages" },
+  { name: "React.js", icon: "⚛️", level: 95, category: "frontend" },
+  { name: "TailwindCSS", icon: "🔷", level: 90, category: "frontend" },
   { name: "Node.js", icon: "🟢", level: 85, category: "backend" },
   { name: "MongoDB", icon: "🍃", level: 80, category: "backend" },
-  { name: "GraphQL", icon: "⬡", level: 75, category: "backend" },
-  { name: "Docker", icon: "🐳", level: 70, category: "devops" },
-  { name: "AWS", icon: "☁️", level: 75, category: "devops" },
+  { name: "Supabase", icon: "⬡", level: 75, category: "backend" },
+  { name: "Netlify", icon: "🐳", level: 70, category: "devops" },
+  { name: "Vercel", icon: "☁️", level: 75, category: "devops" },
   { name: "Next.js", icon: "▲", level: 90, category: "frontend" },
   { name: "TailwindCSS", icon: "🌊", level: 95, category: "frontend" },
   { name: "Python", icon: "🐍", level: 80, category: "languages" },

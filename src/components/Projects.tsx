@@ -18,8 +18,8 @@ const projects: Project[] = [
     description: "AI-powered startup idea validation platform that analyzes business concepts and provides comprehensive feedback and roadmaps.",
     image: "./asserts/img1.png",
     technologies: ["React", "Node.js", "OpenAI API", "MongoDB", "AWS"],
-    liveUrl: "https://mindtrek.example.com",
-    githubUrl: "https://github.com/periyanan/mindtrek",
+    liveUrl: "https://mindtrek-ai.vercel.app/",
+    githubUrl: "https://github.com/itzperi/mindtrek-ai",
     featured: true
   },
   {
@@ -27,7 +27,7 @@ const projects: Project[] = [
     description: "Personal finance management app with AI-powered financial advice and investment recommendations tailored to Indian audiences.",
     image: "./asserts/img3.png",
     technologies: ["Next.js", "TypeScript", "TailwindCSS", "Firebase", "Chart.js"],
-    liveUrl: "https://rupeeradar.example.com",
+    liveUrl: "https://rupeeradar.vercel.app/",
     githubUrl: "https://github.com/periyanan/rupeeradar"
   },
   {
@@ -35,7 +35,7 @@ const projects: Project[] = [
     description: "Civic issue reporting platform that empowers citizens to improve their neighborhoods using AI-powered image classification.",
     image: "./asserts/img2.png",
     technologies: ["React", "Express", "PostgreSQL", "TensorFlow", "Google Maps API"],
-    liveUrl: "https://urbanfix.example.com",
+    liveUrl: "https://urbanfix-xi.vercel.app/",
     githubUrl: "https://github.com/periyanan/urbanfix",
     featured: true
   }
